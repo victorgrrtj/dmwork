@@ -3,7 +3,7 @@
 
 #### Aluno: [Victor Ribeiro](https://github.com/victorgrrtj)
 #### Aluna: [Thaís Guarize](https://github.com/victorgrrtj)
-#### Orientadora: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/link_do_github).
+#### Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/link_do_github).
 
 ---
 
