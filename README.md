@@ -9,7 +9,7 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Data Mining".
 
-Horse.ipynb (https://github.com/victorgrrtj/dmwork/blob/main/Horse.ipynb)
+[Horse.ipynb](https://github.com/victorgrrtj/dmwork/blob/main/Horse.ipynb)
 
 ---
 
@@ -26,6 +26,9 @@ O objetivo deste trabalho é propor um modelo de classificação. O presente mod
 The work's purpose is build a classification model. This model uses concepts, tools and libraries learned in Data Mining's classes, like pandas, numpy, matpotlib, seaborn, SVM, Logistic Regression, Decision Tree, Random Forest e KNN. For model's elaboration, were previously elaborated steps of exploratory analsys and pre process of data, as demonstrated in class. Finally, we saved the model for futures inferences.
 
 ### 1. Introdução
+
+- Base de Dados para Treino [LINK](https://github.com/victorgrrtj/dmwork/blob/main/horsetrain.csv)
+- Base de Dados para Teste [LINK](https://github.com/victorgrrtj/dmwork/blob/main/horsetest.csv)
 
 A base de dados apresentada é de cavalos cujo classificação é categórica e dividida em três saídas: viveu, morreu e submetido à eutanásia. A base possui diversas classes de atributo, sendo todas elas esclarecidas neste [PDF](https://github.com/victorgrrtj/dmwork/blob/main/DataDict.pdf).
 Para realizar as análises e a elaboração do modelo, utilizamos o Google Colab e bibliotecas como Pandas, Scikit Learning, dentre outras.
