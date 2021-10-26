@@ -27,7 +27,7 @@ The work's purpose is build a classification model. This model uses concepts, to
 
 ### 1. Introdução
 
-A base de dados apresentada é de cavalos cujo classificação é categórica e dividida em três saídas: viveu, morreu e submetido à eutanásia. A base possui diversas classes de atributo, sendo todas elas esclarecidas neste PDF.
+A base de dados apresentada é de cavalos cujo classificação é categórica e dividida em três saídas: viveu, morreu e submetido à eutanásia. A base possui diversas classes de atributo, sendo todas elas esclarecidas neste [PDF](https://github.com/victorgrrtj/dmwork/blob/main/DataDict.pdf).
 Para realizar as análises e a elaboração do modelo, utilizamos o Google Colab e bibliotecas como Pandas, Scikit Learning, dentre outras.
 Na etapa de Análise Exploratória, vimos que se tratavam de 11 colunas com dados numéricos e 17 com dados categóricos (string). Sendo que, de acordo com os atributos esclarecidos da base, 3 colunas com dados numéricos eram na verdade categorias de doencças dos animais. Portanto, tratamos esta coluna como dado categórico. Também verificamos uma quantidade grande de dados faltantes, motivo pelo qual excluímos algumas colunas e linhas para a elaboração do modelo. Para tratamento dos dados faltantes, imputamos os dados numéricos pela média dos dados de cada coluna e imputamos os dados categóricos pela maior frequência. Após a imputação, realizamos normalização nas colunas com dados numéricos e OneHotEncoder nos dados categóricos.
 Após o pré processamento da base, prosseguimos com a etapa de elaboração e testes dos modelos.
