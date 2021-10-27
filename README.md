@@ -17,7 +17,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-O objetivo deste trabalho é propor um modelo de classificação. O presente modelo usa os conceitos, ferramentas e bibliotecas ensinadas nas aulas de Mineração de Dados, como pandas, numpy, matpotlib, seaborn, SVM, Logistic Regression, Decision Tree, Random Forest e KNN. Para elaboração do modelo foram previamente elaboradadas as etapas de análise exploratória e pré processamento da base de dados, conforme demonstrados nas aulas. Por fim, salvamos o modelo para futura inferências.
+O objetivo deste trabalho é propor um modelo de classificação. O presente modelo usa os conceitos, ferramentas e bibliotecas ensinadas nas aulas de Mineração de Dados, como pandas, numpy, matpotlib, seaborn, SVM, Logistic Regression, Decision Tree, Random Forest e KNN. Para elaboração do modelo foram previamente elaboradas etapas de análise exploratória e pré processamento da base de dados, conforme demonstrados nas aulas. Por fim, salvamos o modelo para futura inferências.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
@@ -30,9 +30,9 @@ The work's purpose is build a classification model. This model uses concepts, to
 - Base de Dados para Treino [LINK](https://github.com/victorgrrtj/dmwork/blob/main/horsetrain.csv)
 - Base de Dados para Teste [LINK](https://github.com/victorgrrtj/dmwork/blob/main/horsetest.csv)
 
-A base de dados apresentada é de cavalos cujo classificação é categórica e dividida em três saídas: viveu, morreu e submetido à eutanásia. A base possui diversas classes de atributo, sendo todas elas esclarecidas neste [PDF](https://github.com/victorgrrtj/dmwork/blob/main/DataDict.pdf).
+A base de dados apresentada é de cavalos cuja classificação é categórica e dividida em três saídas: viveu, morreu e submetido à eutanásia. A base possui diversas classes de atributo, sendo todas elas esclarecidas neste [PDF](https://github.com/victorgrrtj/dmwork/blob/main/DataDict.pdf).
 Para realizar as análises e a elaboração do modelo, utilizamos o Google Colab e bibliotecas como Pandas, Scikit Learning, dentre outras.
-Na etapa de Análise Exploratória, vimos que se tratavam de 11 colunas com dados numéricos e 17 com dados categóricos (string). Sendo que, de acordo com os atributos esclarecidos da base, 3 colunas com dados numéricos eram na verdade categorias de doencças dos animais. Portanto, tratamos esta coluna como dado categórico. Também verificamos uma quantidade grande de dados faltantes, motivo pelo qual excluímos algumas colunas e linhas para a elaboração do modelo. Para tratamento dos dados faltantes, imputamos os dados numéricos pela média dos dados de cada coluna e imputamos os dados categóricos pela maior frequência. Após a imputação, realizamos normalização nas colunas com dados numéricos e OneHotEncoder nos dados categóricos.
+Na etapa de Análise Exploratória, vimos que se tratavam de 11 colunas com dados numéricos e 17 com dados categóricos (string). Sendo que, de acordo com os atributos esclarecidos da base, 3 colunas com dados numéricos eram na verdade categorias de doenças dos animais. Portanto, tratamos esta coluna como dado categórico. Também verificamos uma quantidade grande de dados faltantes, motivo pelo qual excluímos algumas colunas e linhas para a elaboração do modelo. Para tratamento dos dados faltantes, imputamos os dados numéricos pela média dos dados de cada coluna e imputamos os dados categóricos pela maior frequência. Após a imputação, realizamos normalização nas colunas com dados numéricos e OneHotEncoder nos dados categóricos.
 Após o pré processamento da base, prosseguimos com a etapa de elaboração e testes dos modelos.
 
 ### 2. Modelagem
@@ -50,7 +50,8 @@ A base sugerida foi excelente para exercício dos conceitos, práticas e abordag
 
 ---
 
-Matrícula: 211.100.047
+Matrícula Victor: 211.100.047
+Matrícula Thaís: 211.100.376
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
