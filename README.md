@@ -51,6 +51,7 @@ A base sugerida foi excelente para exercício dos conceitos, práticas e abordag
 ---
 
 Matrícula Victor: 211.100.047
+
 Matrícula Thaís: 211.100.376
 
 Pontifícia Universidade Católica do Rio de Janeiro
