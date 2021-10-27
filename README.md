@@ -17,7 +17,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-O objetivo deste trabalho é propor um modelo de classificação. O presente modelo usa os conceitos, ferramentas e bibliotecas ensinadas nas aulas de Mineração de Dados, como pandas, numpy, matpotlib, seaborn, SVM, Logistic Regression, Decision Tree, Random Forest e KNN. Para elaboração do modelo foram previamente elaboradas etapas de análise exploratória e pré processamento da base de dados, conforme demonstrados nas aulas. Por fim, salvamos o modelo para futura inferências.
+O objetivo deste trabalho é propor um modelo de classificação. O presente modelo usa os conceitos, ferramentas e bibliotecas ensinadas nas aulas de Mineração de Dados, como pandas, numpy, matpotlib, seaborn, SVM, Logistic Regression, Decision Tree, Random Forest e KNN. Para elaboração do modelo foram previamente elaboradas etapas de análise exploratória e pré processamento da base de dados, conforme demonstrados nas aulas.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
