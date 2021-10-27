@@ -23,7 +23,7 @@ O objetivo deste trabalho é propor um modelo de classificação. O presente mod
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
 
-The work's purpose is build a classification model. This model uses concepts, tools and libraries learned in Data Mining's classes, like pandas, numpy, matpotlib, seaborn, SVM, Logistic Regression, Decision Tree, Random Forest e KNN. For model's elaboration, were previously elaborated steps of exploratory analsys and pre process of data, as demonstrated in class. Finally, we saved the model for futures inferences.
+The work's purpose is build a classification model. This model uses concepts, tools and libraries learned in Data Mining's classes, like pandas, numpy, matpotlib, seaborn, SVM, Logistic Regression, Decision Tree, Random Forest e KNN. For model's elaboration, were previously elaborated steps of exploratory analsys and pre process of data, as demonstrated in class.
 
 ### 1. Introdução
 
